@@ -89,5 +89,5 @@
 </div>
 </div>
 <div  align="center" style="margin:auto;" > 
-<img align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif?raw=true" alt="Snake animation" />
+<img style="border-radius:50%;" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif?raw=true" alt="Snake animation" />
 </div>
